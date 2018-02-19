@@ -10,7 +10,7 @@ Just a collection of problems to play around and have fun.
 
 <a name="primegenerator"/>
 
-## Prime Generator
+## Prime Generator (SPOJ)
 Peter wants to generate some prime numbers for his cryptosystem. Help him! Your task is to generate all prime numbers between two given numbers!
 
 **Input**
@@ -20,12 +20,12 @@ The input begins with the number t of test cases in a single line (t<=10). In ea
 For every test case print all prime numbers p such that m <= p <= n, one number per line, test cases separated by an empty line.
 
 ```
-**Input:**
+Input:
 2
 1 10
 3 5
 
-**Output:**
+Output:
 2
 3
 5
